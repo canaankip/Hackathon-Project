@@ -70,7 +70,7 @@ const Contact = () => {
                       </div>
                       <div>
                         <h3 className="text-lg font-semibold">Email</h3>
-                        <p className="text-gray-300">john.doe@student.uonbi.ac.ke</p>
+                        <p className="text-gray-300">41373062@student.uonbi.ac.ke</p>
                       </div>
                     </div>
                   </CardContent>
@@ -84,7 +84,7 @@ const Contact = () => {
                       </div>
                       <div>
                         <h3 className="text-lg font-semibold">Phone</h3>
-                        <p className="text-gray-300">+254 700 000000</p>
+                        <p className="text-gray-300">+254 758640338</p>
                       </div>
                     </div>
                   </CardContent>

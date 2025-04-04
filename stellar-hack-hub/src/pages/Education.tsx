@@ -24,7 +24,7 @@ const Education = () => {
                   <div>
                     <h2 className="text-2xl font-bold">Bachelor of Real Estate</h2>
                     <p className="text-xl text-gray-300">University of Nairobi</p>
-                    <p className="text-gray-400">2020 - Present</p>
+                    <p className="text-gray-400">2022 - Present</p>
                   </div>
                 </div>
                 <p className="text-gray-300 mb-4">
@@ -32,7 +32,6 @@ const Education = () => {
                 </p>
                 <h3 className="text-xl font-semibold mb-3">Key Achievements:</h3>
                 <ul className="space-y-2 text-gray-300">
-                  <li>• Dean's List for Academic Excellence (2021, 2022)</li>
                   <li>• Research Assistant for Department Housing Study</li>
                   <li>• Student Representative, Faculty of Built Environment</li>
                   <li>• Led team project on Affordable Housing Solutions that won departmental recognition</li>
@@ -80,8 +79,7 @@ const Education = () => {
                   <ul className="space-y-2 text-gray-300">
                     <li>• Introduction to PropTech (PropTech Kenya)</li>
                     <li>• Real Estate Data Analytics (Coursera)</li>
-                    <li>• Web Development Fundamentals (FreeCodeCamp)</li>
-                  </ul>
+                    </ul>
                 </CardContent>
               </Card>
               

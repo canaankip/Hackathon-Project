@@ -9,7 +9,7 @@ const Hero = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-            Hello, I'm <span className="space-gradient-text">John Doe</span>
+            Hello, I'm <span className="space-gradient-text">Canaan Kiprop</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-10">
             Real Estate Student at University of Nairobi with a passion for blending property development with technology.

@@ -19,9 +19,9 @@ const AboutMe = () => {
               <div className="rounded-xl overflow-hidden bg-space-mid-blue/50 backdrop-blur-sm border border-space-light-blue/20 p-6 h-full">
                 <div className="aspect-square rounded-full overflow-hidden mx-auto mb-6 w-48 h-48 bg-space-light-blue/20 flex items-center justify-center">
                   {/* Placeholder for profile image */}
-                  <span className="text-6xl text-space-purple/70">JD</span>
+                  <span className="text-6xl text-space-purple/70">CK</span>
                 </div>
-                <h2 className="text-xl font-semibold text-center mb-2">John Doe</h2>
+                <h2 className="text-xl font-semibold text-center mb-2">Canaan Kiprop</h2>
                 <p className="text-gray-300 text-center">Real Estate Student</p>
                 <p className="text-gray-300 text-center">University of Nairobi</p>
               </div>
@@ -83,9 +83,9 @@ const AboutMe = () => {
                   <h3 className="text-xl font-semibold">Quick Contact</h3>
                 </div>
                 <ul className="space-y-2 text-gray-300">
-                  <li>• Email: john.doe@student.uonbi.ac.ke</li>
-                  <li>• Phone: +254 700 000000</li>
-                  <li>• LinkedIn: /johndoe-realestate</li>
+                  <li>• Email: 41373062@student.uonbi.ac.ke</li>
+                  <li>• Phone: +254 758640338</li>
+                  <li>• LinkedIn: /canaan-kiprop-cheruiyot-5551792ab</li>
                 </ul>
               </CardContent>
             </Card>
